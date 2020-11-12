@@ -75,3 +75,5 @@ allCities = allCities + ', ' + cities[1];
 allCities = allCities + ', ' + cities[0];
 
 console.log(allCities);
+
+
